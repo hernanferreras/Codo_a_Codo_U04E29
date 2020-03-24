@@ -2,6 +2,7 @@
 package u04e29;
 
 import java.util.Scanner;
+
 public class U04E29 {
     public static void main(String args[]) {
         Scanner entrada=new Scanner(System.in);
